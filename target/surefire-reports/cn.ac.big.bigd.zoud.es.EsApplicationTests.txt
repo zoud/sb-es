@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cn.ac.big.bigd.zoud.es.EsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.107 s - in cn.ac.big.bigd.zoud.es.EsApplicationTests
